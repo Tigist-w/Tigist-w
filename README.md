@@ -7,7 +7,7 @@ Web Developer
 Coding my way to the future, one line at a time. A self-taught web developer always hungry to learn and build amazing things. Let's connect and build something awesome together!
 
 * 🌍  I'm based in Ethiopia
-* ✉️  You can contact me at [tigistworku783@gmail.com](mailto:tigistworku783@gmail.com)
+* ✉️  You can contact me at [Email](mailto:tigistworku783@gmail.com)
 * 🧠  I'm learning Fullstack Application Development
 
 ### Skills
