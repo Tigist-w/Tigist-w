@@ -82,7 +82,7 @@ I love turning ideas into digital experiences and am always hungry to learn, inn
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Tigist-w"><img src="https://github-readme-stats.vercel.app/api?username=Tigist-w&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=14b8a6&icon_color=10b981&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tigist-w's GitHub stats" /></a>
+
 
 <a href="http://www.github.com/Tigist-w"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tigist-w&stroke=14b8a6&background=1c1917&ring=10b981&fire=10b981&currStreakNum=14b8a6&currStreakLabel=10b981&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
 
